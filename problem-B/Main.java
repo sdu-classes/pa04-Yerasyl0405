@@ -6,7 +6,7 @@ public class Main {
         Rabbit  c = new Rabbit("Fluffy");
         Animal a = new Fish();
         Animal e =new Spider();
-        Rabbit p  = new Rabbit();
+        Pet p  = new Rabbit();
         d.setName("Sazan");
         d.walk();
         c.eat();
